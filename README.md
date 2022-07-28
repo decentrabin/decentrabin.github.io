@@ -1,5 +1,5 @@
 # Decentrabin
 A decentralized pastebin.
 
-## Notice
-Development for decentralized pastebin can be found at https://github.com/Dermux/Duxt
+## Note
+Development for decentralized pastebin has been moved to https://github.com/Dermux/Duxt
